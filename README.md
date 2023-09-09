@@ -13,21 +13,37 @@ This course covers Python 3.
 It covers:
 
 programming for everybody (getting started with Python) Coursera answers,
+
 programming for everybody (getting started with Python) quiz,
+
 programming for everybody (getting started with Python) Coursera,
+
 programming for everybody (getting started with Python) assignment 2.2,
+
 programming for everybody (getting started with Python) assignment 2.3,
+
 programming for everybody (getting started with Python) assignment 3.1,
+
 programming for everybody (getting started with Python) assignment 3.3,
+
 programming for everybody (getting started with Python) assignment 4.6,
+
 programming for everybody (getting started with Python) assignment 5.2,
+
 programming for everybody (getting started with Python) assignment,
+
 programming for everybody (getting started with Python) answers,
+
 programming for everybody (getting started with Python) chapter 1 quiz,
+
 programming for everybody (getting started with Python) chapter 2 quiz,
+
 programming for everybody (getting started with Python) chapter 3 quiz,
+
 programming for everybody (getting started with Python) chapter 4 quiz,
+
 programming for everybody (getting started with Python) chapter 5 quiz,
+
 programming for everybody (getting started with Python) download,
 programming for everybody (getting started with Python) free download,
 programming for everybody (getting started with Python) Michigan,
