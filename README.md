@@ -2,6 +2,7 @@
 
 ![Module 1- Programming for Everybody_page-0001](https://github.com/Sayan-Dutta-1/Programming-for-Everybody-Getting-Started-with-Python----Coursera/assets/113238898/59210f97-2076-4179-b8ca-b6a9107d2a22)
 
+
 This course aims to teach everyone the basics of programming computers using Python. 
 We cover the basics of how one constructs a program from a series of simple instructions in Python.  
 The course has no prerequisites and avoids all but the simplest mathematics. 
